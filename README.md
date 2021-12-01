@@ -1,2 +1,2 @@
 # cafe-with-a-view
-Application Vye.js
+Application Vue.js
